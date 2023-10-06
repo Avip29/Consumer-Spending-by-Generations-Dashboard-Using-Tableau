@@ -2,6 +2,11 @@
 
 Examined the Consumer Spending by Generation Dataset and find key insights from it
 
+## Objective
+
+Where does each Generation Spend their Money?
+
+
 ## Tools
 * Tableau
 
